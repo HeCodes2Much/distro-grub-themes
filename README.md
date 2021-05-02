@@ -19,11 +19,11 @@ It aims to replace default Grub look, with nice and colorful theme.
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/The-Repo-Club/distro-grub-themes/master/preview/Arch%20Linux.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/The-Repo-Club/distro-grub-theme/master/preview/Debian.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/The-Repo-Club/distro-grub-themes/master/preview/Debian.png" width="49%"/>
 </p>
 <p float="left">
-<img src="https://raw.githubusercontent.com/The-Repo-Club/distro-grub-theme/master/preview/ElementaryOS.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/The-Repo-Club/distro-grub-theme/master/preview/Fedora.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/The-Repo-Club/distro-grub-themes/master/preview/ElementaryOS.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/The-Repo-Club/distro-grub-themes/master/preview/Fedora.png" width="49%"/>
 </p>
 <p float="left">
 <img src="https://raw.githubusercontent.com/The-Repo-Club/distro-grub-themes/master/preview/Linux%20Mint.png" width="49%"/>
